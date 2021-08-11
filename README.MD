@@ -1,1 +1,1 @@
-#Grade 6, Class 12, Additional Activity Template on Switch case
+#Grade 6, Class 12, Additional Activity 2 Solution
