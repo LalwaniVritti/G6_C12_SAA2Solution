@@ -11,7 +11,7 @@ function draw() {
 
   //Write if condition for space and assign random number to variable
 
-  if(keyWentDown("space")){
+  if(keyDown("space")){
     dice = Math.round(random(1,6));
   }
 
